@@ -1,6 +1,4 @@
 # Student-Performance-Analysis
-Analyzing student performance data using pandas and visualization
-# Student Performance Analysis
 
 This project analyzes student performance data using Python and machine learning.  
 We use various features like study time, absences, parental education, and more to predict students' final grades.
